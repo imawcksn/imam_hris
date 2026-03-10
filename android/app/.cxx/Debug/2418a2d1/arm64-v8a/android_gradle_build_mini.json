@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\imam\\fvm\\versions\\3.29.3\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\dev\\flutter\\imam_very_good_map\\android\\app\\.cxx\\Debug\\2418a2d1\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\dev\\flutter\\imam_very_good_map\\android\\app\\.cxx\\Debug\\2418a2d1\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
